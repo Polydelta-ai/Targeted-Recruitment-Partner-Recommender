@@ -12,7 +12,7 @@ Our academic institution model calculates the cosine similarity between two scho
 - Program Distribution
 
 ### Professional Organizations ###
-Our professional organization model utilizes a TF IDF vectorizer along with a linear kernel to compare organizations based on the following characteristics:
+Our professional organization model utilizes a Term Frequency - Inverse Document Frequency vectorizer implemented with a linear kernel to compare organizations based on the following characteristics:
 - Name
 - Bio
 - Organization Type
